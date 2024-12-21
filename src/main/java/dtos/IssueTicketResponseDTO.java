@@ -2,7 +2,7 @@ package dtos;
 
 import lombok.Getter;
 import lombok.Setter;
-import models.enums.ResponseStatus;
+import enums.ResponseStatus;
 
 @Getter
 @Setter

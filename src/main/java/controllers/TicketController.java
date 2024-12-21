@@ -3,7 +3,7 @@ package controllers;
 import dtos.IssueTicketRequestDTO;
 import dtos.IssueTicketResponseDTO;
 import models.Ticket;
-import models.enums.ResponseStatus;
+import enums.ResponseStatus;
 import services.TicketService;
 
 public class TicketController {

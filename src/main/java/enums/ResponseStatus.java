@@ -1,4 +1,4 @@
-package models.enums;
+package enums;
 
 public enum ResponseStatus {
     SUCCESS,

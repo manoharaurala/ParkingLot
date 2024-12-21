@@ -2,7 +2,7 @@ package models;
 
 import lombok.Getter;
 import lombok.Setter;
-import models.enums.VehicleType;
+import enums.VehicleType;
 
 @Getter
 @Setter

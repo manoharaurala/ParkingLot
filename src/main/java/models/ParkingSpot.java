@@ -2,8 +2,8 @@ package models;
 
 import lombok.Getter;
 import lombok.Setter;
-import models.enums.ParkingSpotStatus;
-import models.enums.VehicleType;
+import enums.ParkingSpotStatus;
+import enums.VehicleType;
 
 @Getter
 @Setter

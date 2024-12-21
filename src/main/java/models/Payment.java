@@ -2,8 +2,8 @@ package models;
 
 import lombok.Getter;
 import lombok.Setter;
-import models.enums.PaymentMode;
-import models.enums.PaymentStatus;
+import enums.PaymentMode;
+import enums.PaymentStatus;
 
 import java.time.LocalDateTime;
 @Getter
