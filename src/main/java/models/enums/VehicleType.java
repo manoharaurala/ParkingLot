@@ -1,4 +1,7 @@
 package models.enums;
 
-public enum Vehicle {
+public enum VehicleType {
+    BIKE,
+    CAR,
+    TRUCK
 }

@@ -1,4 +1,6 @@
 package models.enums;
 
-public class ResponseStatus {
+public enum ResponseStatus {
+    SUCCESS,
+    FAILURE
 }
